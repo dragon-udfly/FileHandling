@@ -1,5 +1,4 @@
-# Java File Handling Repository 📁☕
-
+# Java File Handling Repository
 A dedicated collection of Java programs demonstrating various file processing, reading, writing, and stream manipulation techniques.
 
 ---
